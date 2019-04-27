@@ -17,5 +17,5 @@ The program will provide the following four kinds of outputs:
 1.  Player 1 wins
 2.  Player 2 wins
 3.  Tie
-4.  Wrong i
+4.  Wrong input
 
